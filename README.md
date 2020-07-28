@@ -1,2 +1,2 @@
 # Python-tutorials
-This is not pythonista
+This is pythonista for simpler programs 
