@@ -1,7 +1,6 @@
 def main():
     n = int(input())
     arr = list(map(int, input().split()))
-
     avg = sum(arr) // n
     b = [0] * n
     for i in range(n - 1):
